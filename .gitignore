@@ -1,2 +1,3 @@
-./x64/Debug
-./.vs/cpp_01
+./beajoon/.vs
+./beajoon/cpp_01/.vs
+./beajoon/cpp_01/x64
